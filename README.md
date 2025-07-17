@@ -13,5 +13,5 @@ The input voltage (e.g. 9V) passes through the 1N4007 diode, then gets regulated
 
 ## Files
 - AMS1117-Schematic.kicad_sch
-- AMS1117-Schematic.png (screenshot)
-- AMS1117-Schematic.pdf (optional)
+- AMS1117-Schematic.png 
+- AMS1117-Schematic.pdf 
